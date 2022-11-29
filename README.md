@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oof71
 - 👀 I’m interested in ... stuff
-- 🌱 I’m currently learning ... stuuff
-- 💞️ I’m looking to collaborate on ... npthing
+- 🌱 I’m currently learning ... stuff
+- 💞️ I’m looking to collaborate on ... nothing for now
 - 📫 How to reach me ... dont
 
 <!---
