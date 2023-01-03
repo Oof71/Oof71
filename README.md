@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... stuff
 - 🌱 I’m currently learning ... stuff
 - 💞️ I’m looking to collaborate on ... nothing for now
-- 📫 How to reach me ... dont
+- 📫 How to reach me ... I am unavailable 
 
 <!---
 Oof71/Oof71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
